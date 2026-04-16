@@ -1,3 +1,5 @@
+# Versi clean code (perbaikan)
+
 def hitung(n1, n2, n3):
     r = (n1 + n2 + n3) / 3
     if r >= 85:
